@@ -1,0 +1,6 @@
+{
+  "name": "Community Chat & Voice",
+  "description": "Discord-like real-time chat and voice calling platform with no-email registration",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
